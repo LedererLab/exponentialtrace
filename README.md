@@ -31,6 +31,7 @@ Data-type specific functions can be found under `Implementation/Data_type_specif
 ## Repository Authors
 
 * **[Rui Zhuang](https://github.com/ruizhuanguw)** &mdash; Ph.D. candidate in Biostatistics, University of Washington &mdash; *methodology and `R` implementation*
+* **[Noah Simon](http://faculty.washington.edu/nrsimon/)** &mdash; Assistant Professor in Biostatistics, University of Washington &mdash; *methodology*
 * **[Johannes Lederer](https://johanneslederer.com/)** &mdash; Professor in Mathematical Statistics, Ruhr-University Bochum &mdash; *methodology*
 
 
