@@ -1,4 +1,4 @@
-# Exponential trace model for networks of discrete and continuous data
+# Exponential trace model for discrete and continuous data
 
 This repository provides an implementation of the sampling-based approximation for computing the maximum likelihood estimator (MLE) of exponential trace model. 
 
